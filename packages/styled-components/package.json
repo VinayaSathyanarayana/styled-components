@@ -100,7 +100,7 @@
     "react-native": "^0.63.3",
     "react-primitives": "^0.8.0",
     "react-test-renderer": "^16.8.6",
-    "rollup": "^1.13.1",
+    "rollup": "^2.79.2",
     "rollup-plugin-babel": "^4.3.2",
     "rollup-plugin-terser": "^5.0.0",
     "stylis-plugin-rtl": "^2.0.0"
